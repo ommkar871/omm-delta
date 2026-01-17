@@ -1,2 +1,2 @@
 # omm-delta
-this is a demo for first time
+This is a demo for first time.
